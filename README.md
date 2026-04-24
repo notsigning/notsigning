@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+------
+Hi, I'm William, and I do a LOT of stuff surrounding programming. Webdev? I already have a repository. Gamedev? Sort of (Another repository). 
+I am learning coding norms (e.g. using a web framework, typescript, etc.) and hopefully I can make something awesome!
 <!--
 **notsigning/notsigning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
